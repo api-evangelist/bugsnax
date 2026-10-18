@@ -41,7 +41,8 @@ apis:
     description: "Get information about Bugsnax"
     humanURL: https://www.bugsnaxapi.com/
     baseURL: https://www.bugsnaxapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
